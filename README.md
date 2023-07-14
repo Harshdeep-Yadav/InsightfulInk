@@ -5,7 +5,7 @@
     <img src="https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg?w=1380&t=st=1689329974~exp=1689330574~hmac=d389c47eb95bbc2f030e696e8b0f575305d9e0963a63a2b15e16903ad0a4714d" alt="Your Blog Website Logo">
 </div>
 
-# [Your Blog Website Name]
+# [InsightfulInk]
 
 🌟 Welcome to a world of inspiration, knowledge, and creativity! 🌟
 
