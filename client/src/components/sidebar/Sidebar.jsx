@@ -2,7 +2,8 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import "./sidebar.css";
-
+import Fade from "react-reveal/Fade";
+import Zoom from "react-reveal/Zoom";
 export default function Sidebar() {
   const [cats, setCats] = useState([]);
 
@@ -15,6 +16,7 @@ export default function Sidebar() {
   }, []);
   return (
     <div className="sidebar">
+      <Fade right>
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
@@ -28,6 +30,7 @@ export default function Sidebar() {
       </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
+        <Zoom right >
         <ul className="sidebarList">
           {cats.map((c) => (
             <Link to={`/?cat=${c.name}`} className="link">
@@ -35,16 +38,21 @@ export default function Sidebar() {
             </Link>
           ))}
         </ul>
+        </Zoom>
       </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">FOLLOW US</span>
+        <Zoom right cascade>
+
         <div className="sidebarSocial">
           <i className="sidebarIcon fab fa-facebook-square"></i>
           <i className="sidebarIcon fab fa-twitter-square"></i>
           <i className="sidebarIcon fab fa-pinterest-square"></i>
           <i className="sidebarIcon fab fa-instagram-square"></i>
         </div>
+        </Zoom>
       </div>
+      </Fade>
     </div>
   );
 }

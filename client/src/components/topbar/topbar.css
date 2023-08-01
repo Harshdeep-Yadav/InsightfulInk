@@ -1,12 +1,12 @@
 .top {
   width: 100%;
-  height: 65px;
+  height: 75px;
   background-color: rgb(247, 240, 240);
   position: sticky;
   top: 0;
   display: flex;
-  align-items: center;
-  font-family: "Josefin Sans", sans-serif;
+  align-items: center; 
+  font-family: 'Kalam', cursive;
   z-index: 999;
 }
 
