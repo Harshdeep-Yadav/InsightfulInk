@@ -9,7 +9,7 @@
 
 🌟 Welcome to a world of inspiration, knowledge, and creativity! 🌟
 
-At [Your Blog Website Name], we believe that words have the power to ignite imagination, spark conversations, and create lasting connections. Step into our digital realm where captivating stories, insightful articles, and thought-provoking ideas come to life.
+At InshightfulInk, we believe that words have the power to ignite imagination, spark conversations, and create lasting connections. Step into our digital realm where captivating stories, insightful articles, and thought-provoking ideas come to life.
 
 ## 📚 Explore a Universe of Ideas
 
