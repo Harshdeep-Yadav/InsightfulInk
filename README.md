@@ -27,7 +27,7 @@ At InshightfulInk, we believe that words have the power to ignite imagination, s
 
 ## 🖋️ Pen Your Own Odyssey
 
-[Your Blog Website Name] isn't just about our words; it's about yours too. We welcome fellow wordsmiths and budding storytellers to contribute their own chapters to our ever-growing anthology of ideas. Unleash your creativity and share your unique perspective with our passionate community.
+InsightfulInk isn't just about our words; it's about yours too. We welcome fellow wordsmiths and budding storytellers to contribute their own chapters to our ever-growing anthology of ideas. Unleash your creativity and share your unique perspective with our passionate community.
 
 ## 🌈 Immerse Yourself in a World of Engagement
 
