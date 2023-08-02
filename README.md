@@ -1,15 +1,11 @@
 "# InsightfulInk" 
 
 
-<div align="center">
-    <img src="https://img.freepik.com/free-photo/toy-bricks-table-with-word-blog_144627-47465.jpg?w=1380&t=st=1689329974~exp=1689330574~hmac=d389c47eb95bbc2f030e696e8b0f575305d9e0963a63a2b15e16903ad0a4714d" alt="Your Blog Website Logo">
-</div>
-
 # [InsightfulInk]
 
 🌟 Welcome to a world of inspiration, knowledge, and creativity! 🌟
 
-At [Your Blog Website Name], we believe that words have the power to ignite imagination, spark conversations, and create lasting connections. Step into our digital realm where captivating stories, insightful articles, and thought-provoking ideas come to life.
+At InshightfulInk, we believe that words have the power to ignite imagination, spark conversations, and create lasting connections. Step into our digital realm where captivating stories, insightful articles, and thought-provoking ideas come to life.
 
 ## 📚 Explore a Universe of Ideas
 
@@ -27,7 +23,7 @@ At [Your Blog Website Name], we believe that words have the power to ignite imag
 
 ## 🖋️ Pen Your Own Odyssey
 
-[Your Blog Website Name] isn't just about our words; it's about yours too. We welcome fellow wordsmiths and budding storytellers to contribute their own chapters to our ever-growing anthology of ideas. Unleash your creativity and share your unique perspective with our passionate community.
+InsightfulInk isn't just about our words; it's about yours too. We welcome fellow wordsmiths and budding storytellers to contribute their own chapters to our ever-growing anthology of ideas. Unleash your creativity and share your unique perspective with our passionate community.
 
 ## 🌈 Immerse Yourself in a World of Engagement
 
