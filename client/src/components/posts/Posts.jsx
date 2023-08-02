@@ -4,13 +4,13 @@ import Zoom from "react-reveal/Zoom";
 export default function Posts({ posts }) {
   return (
     <>
-      <div className="posts">
-        <Zoom left cascade>
+      <Zoom left cascade>
+        <div className="posts">
           {posts.map((p) => (
             <Post post={p} />
           ))}
-        </Zoom>
-      </div>
+        </div>
+      </Zoom>
     </>
   );
 }
