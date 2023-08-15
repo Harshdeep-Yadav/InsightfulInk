@@ -1,0 +1,72 @@
+/* components/Contact.css */
+.contact-container {
+  padding: 7rem;
+  color:olive;
+  text-transform: uppercase;
+  height: 100%;
+  text-align: center;
+  background-image: url("https://img.freepik.com/free-photo/top-view-blue-monday-concept-composition-with-telephone_23-2149139103.jpg?w=1060&t=st=1692079506~exp=1692080106~hmac=1bd2ef4515bb171931193c3300c2ce448ea9e5fcbba8479a704dc9ca3d5f4bc8");
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.contact-container h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-decoration: underline;
+}
+
+.contact-container p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+ font-weight: 600;
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color:darkgray;
+  font-weight: bolder;
+  
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.form-group textarea {
+  resize: vertical;
+}
+
+button[type="submit"] {
+  background-color:rgb(207, 132, 33);
+  color: white;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: green;
+}

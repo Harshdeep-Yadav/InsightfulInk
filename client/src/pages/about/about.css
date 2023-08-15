@@ -1,0 +1,34 @@
+/* components/About/About.css */
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem;
+  background-color: black ;
+}
+
+.about-content {
+  flex: 1;
+  
+  padding-right: 2rem;
+}
+
+.about-content h2 {
+  font-size: 2rem;
+  color: red;
+  text-decoration: underline;
+  margin-bottom: 1rem;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  color: thistle;
+}
+
+.about-image img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

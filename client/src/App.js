@@ -8,6 +8,8 @@ import Register from "./pages/register/Register";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { useContext } from "react";
 import { Context } from "./context/Context";
+import About from "./pages/about/About";
+import Contact from "./pages/contact/Contact";
 
 function App() {
   const { user } = useContext(Context);
@@ -17,6 +19,12 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Home />
+        </Route>
+        <Route exact path="/about">
+          <About />
+        </Route>
+        <Route exact path="/contact">
+          <Contact />
         </Route>
         <Route path="/register">{user ? <Home /> : <Register />}</Route>
         <Route path="/login">{user ? <Home /> : <Login />}</Route>
